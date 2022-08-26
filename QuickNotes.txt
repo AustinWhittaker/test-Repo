@@ -4,6 +4,8 @@ into dictionary as one
 
 .json file character key  
 
+I changed this
+
 progression data 
 
 
