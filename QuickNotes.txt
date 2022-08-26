@@ -1,0 +1,10 @@
+character username
+
+into dictionary as one
+
+.json file character key  
+
+progression data 
+
+
+
